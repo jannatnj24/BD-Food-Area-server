@@ -1,0 +1,351 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/gzmJ7Rs/chef-1.jpg",
+      "nameChef": "Chef Ahmed Hossain",
+      "experience": 5,
+      "recipes": 150,
+      "likes": 5000,
+      "ViewRecipes": [
+        {
+          "name": "Biriyani",
+          "ingredients": [
+            "1 kg chicken",
+            "2 cups basmati rice",
+            "1/2 cup ghee",
+            "1/2 cup fried onions",
+            "1 tablespoon ginger paste"
+          ],
+          "cookingMethod": "1. Wash the rice and soak it for 30 minutes.\n2. Heat ghee in a large pot and fry onions until brown.\n3. Add ginger paste and chicken. Cook until chicken is browned.\n4. Add salt, red chili powder, and biryani masala. Mix well.\n5. Add 4 cups of water and bring to a boil.\n6. Add soaked rice and cook until the water has evaporated and the rice is tender.\n7. Serve hot.",
+          "rating": 4.8
+        },
+        {
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "4 pieces of Hilsa fish",
+            "2 tablespoons mustard paste",
+            "1 teaspoon turmeric powder",
+            "1 tablespoon mustard oil",
+            "Salt to taste"
+          ],
+          "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown.\n3. Remove the fish from the pan.\n4. Add mustard paste and water to the pan. Mix well.\n5. Add the fish back to the pan and cook for 5-7 minutes.\n6. Serve hot with steamed rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1/2 kg beef mince",
+            "1 onion, chopped",
+            "2 tablespoons coriander powder",
+            "1 tablespoon cumin powder",
+            "1 tablespoon red chili powder"
+          ],
+          "cookingMethod": "1. In a bowl, mix all the ingredients together.\n2. Make small patties with the mixture.\n3. Heat oil in a frying pan and fry the patties until golden brown.\n4. Serve hot with chutney or raita.",
+          "rating": 4.2
+        },
+        {
+            "name": "Shahi Tukra",
+            "ingredients": [
+              "6 slices of bread",
+              "1/2 cup milk",
+              "1/4 cup sugar",
+              "1/4 cup condensed milk",
+              "2 tablespoons ghee"
+            ],
+            "cookingMethod": "1. Heat ghee in a frying pan and fry bread slices until golden brown.\n2. Heat milk and sugar in a separate pan until the sugar dissolves.\n3. Add condensed milk and mix well.\n4. Dip the fried bread slices in the milk mixture.\n5. Serve hot or chilled.",
+            "rating": 4.3
+          }
+      ]
+      
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/RzgbrpV/chef-2.jpg",
+      "nameChef": "Chef Fakruddin",
+      "experience": 5,
+      "recipes": 80,
+      "likes": 3000,
+      "ViewRecipes": [
+        {
+          "name": "Biriyani",
+          "ingredients": [
+            "1 kg chicken",
+            "2 cups basmati rice",
+            "1/2 cup ghee",
+            "1/2 cup fried onions",
+            "1 tablespoon ginger paste"
+          ],
+          "cookingMethod": "1. Wash the rice and soak it for 30 minutes.\n2. Heat ghee in a large pot and fry onions until brown.\n3. Add ginger paste and chicken. Cook until chicken is browned.\n4. Add salt, red chili powder, and biryani masala. Mix well.\n5. Add 4 cups of water and bring to a boil.\n6. Add soaked rice and cook until the water has evaporated and the rice is tender.\n7. Serve hot.",
+          "rating": 4.8
+        },
+        {
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "4 pieces of Hilsa fish",
+            "2 tablespoons mustard paste",
+            "1 teaspoon turmeric powder",
+            "1 tablespoon mustard oil",
+            "Salt to taste"
+          ],
+          "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown.\n3. Remove the fish from the pan.\n4. Add mustard paste and water to the pan. Mix well.\n5. Add the fish back to the pan and cook for 5-7 minutes.\n6. Serve hot with steamed rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1/2 kg beef mince",
+            "1 onion, chopped",
+            "2 tablespoons coriander powder",
+            "1 tablespoon cumin powder",
+            "1 tablespoon red chili powder"
+          ],
+          "cookingMethod": "1. In a bowl, mix all the ingredients together.\n2. Make small patties with the mixture.\n3. Heat oil in a frying pan and fry the patties until golden brown.\n4. Serve hot with chutney or raita.",
+          "rating": 4.2
+        },
+        {
+            "name": "Shahi Tukra",
+            "ingredients": [
+              "6 slices of bread",
+              "1/2 cup milk",
+              "1/4 cup sugar",
+              "1/4 cup condensed milk",
+              "2 tablespoons ghee"
+            ],
+            "cookingMethod": "1. Heat ghee in a frying pan and fry bread slices until golden brown.\n2. Heat milk and sugar in a separate pan until the sugar dissolves.\n3. Add condensed milk and mix well.\n4. Dip the fried bread slices in the milk mixture.\n5. Serve hot or chilled.",
+            "rating": 4.3
+          }
+      ]
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/BVkytH3/chef3.jpg",
+      "nameChef": "Manik Miah",
+      "experience": 12,
+      "recipes": 26,
+      "likes": 500,
+      "ViewRecipes": [
+        {
+          "name": "Biriyani",
+          "ingredients": [
+            "1 kg chicken",
+            "2 cups basmati rice",
+            "1/2 cup ghee",
+            "1/2 cup fried onions",
+            "1 tablespoon ginger paste"
+          ],
+          "cookingMethod": "1. Wash the rice and soak it for 30 minutes.\n2. Heat ghee in a large pot and fry onions until brown.\n3. Add ginger paste and chicken. Cook until chicken is browned.\n4. Add salt, red chili powder, and biryani masala. Mix well.\n5. Add 4 cups of water and bring to a boil.\n6. Add soaked rice and cook until the water has evaporated and the rice is tender.\n7. Serve hot.",
+          "rating": 4.8
+        },
+        {
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "4 pieces of Hilsa fish",
+            "2 tablespoons mustard paste",
+            "1 teaspoon turmeric powder",
+            "1 tablespoon mustard oil",
+            "Salt to taste"
+          ],
+          "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown.\n3. Remove the fish from the pan.\n4. Add mustard paste and water to the pan. Mix well.\n5. Add the fish back to the pan and cook for 5-7 minutes.\n6. Serve hot with steamed rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1/2 kg beef mince",
+            "1 onion, chopped",
+            "2 tablespoons coriander powder",
+            "1 tablespoon cumin powder",
+            "1 tablespoon red chili powder"
+          ],
+          "cookingMethod": "1. In a bowl, mix all the ingredients together.\n2. Make small patties with the mixture.\n3. Heat oil in a frying pan and fry the patties until golden brown.\n4. Serve hot with chutney or raita.",
+          "rating": 4.2
+        },
+        {
+            "name": "Shahi Tukra",
+            "ingredients": [
+              "6 slices of bread",
+              "1/2 cup milk",
+              "1/4 cup sugar",
+              "1/4 cup condensed milk",
+              "2 tablespoons ghee"
+            ],
+            "cookingMethod": "1. Heat ghee in a frying pan and fry bread slices until golden brown.\n2. Heat milk and sugar in a separate pan until the sugar dissolves.\n3. Add condensed milk and mix well.\n4. Dip the fried bread slices in the milk mixture.\n5. Serve hot or chilled.",
+            "rating": 4.3
+          }
+      ]
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/CVct3vc/chef-4.jpg",
+      "nameChef": "Chef kawser",
+      "experience": 8,
+      "recipes": 120,
+      "likes": 4000,
+      "ViewRecipes": [
+        {
+          "name": "Biriyani",
+          "ingredients": [
+            "1 kg chicken",
+            "2 cups basmati rice",
+            "1/2 cup ghee",
+            "1/2 cup fried onions",
+            "1 tablespoon ginger paste"
+          ],
+          "cookingMethod": "1. Wash the rice and soak it for 30 minutes.\n2. Heat ghee in a large pot and fry onions until brown.\n3. Add ginger paste and chicken. Cook until chicken is browned.\n4. Add salt, red chili powder, and biryani masala. Mix well.\n5. Add 4 cups of water and bring to a boil.\n6. Add soaked rice and cook until the water has evaporated and the rice is tender.\n7. Serve hot.",
+          "rating": 4.8
+        },
+        {
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "4 pieces of Hilsa fish",
+            "2 tablespoons mustard paste",
+            "1 teaspoon turmeric powder",
+            "1 tablespoon mustard oil",
+            "Salt to taste"
+          ],
+          "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown.\n3. Remove the fish from the pan.\n4. Add mustard paste and water to the pan. Mix well.\n5. Add the fish back to the pan and cook for 5-7 minutes.\n6. Serve hot with steamed rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1/2 kg beef mince",
+            "1 onion, chopped",
+            "2 tablespoons coriander powder",
+            "1 tablespoon cumin powder",
+            "1 tablespoon red chili powder"
+          ],
+          "cookingMethod": "1. In a bowl, mix all the ingredients together.\n2. Make small patties with the mixture.\n3. Heat oil in a frying pan and fry the patties until golden brown.\n4. Serve hot with chutney or raita.",
+          "rating": 4.2
+        },
+        {
+            "name": "Shahi Tukra",
+            "ingredients": [
+              "6 slices of bread",
+              "1/2 cup milk",
+              "1/4 cup sugar",
+              "1/4 cup condensed milk",
+              "2 tablespoons ghee"
+            ],
+            "cookingMethod": "1. Heat ghee in a frying pan and fry bread slices until golden brown.\n2. Heat milk and sugar in a separate pan until the sugar dissolves.\n3. Add condensed milk and mix well.\n4. Dip the fried bread slices in the milk mixture.\n5. Serve hot or chilled.",
+            "rating": 4.3
+          }
+      ]
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/6R97kNL/chef5.jpg",
+      "nameChef": "Chefn Shari",
+      "experience": 15,
+      "recipes": 250,
+      "likes": 9000,
+      "ViewRecipes": [
+        {
+          "name": "Biriyani",
+          "ingredients": [
+            "1 kg chicken",
+            "2 cups basmati rice",
+            "1/2 cup ghee",
+            "1/2 cup fried onions",
+            "1 tablespoon ginger paste"
+          ],
+          "cookingMethod": "1. Wash the rice and soak it for 30 minutes.\n2. Heat ghee in a large pot and fry onions until brown.\n3. Add ginger paste and chicken. Cook until chicken is browned.\n4. Add salt, red chili powder, and biryani masala. Mix well.\n5. Add 4 cups of water and bring to a boil.\n6. Add soaked rice and cook until the water has evaporated and the rice is tender.\n7. Serve hot.",
+          "rating": 4.8
+        },
+        {
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "4 pieces of Hilsa fish",
+            "2 tablespoons mustard paste",
+            "1 teaspoon turmeric powder",
+            "1 tablespoon mustard oil",
+            "Salt to taste"
+          ],
+          "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown.\n3. Remove the fish from the pan.\n4. Add mustard paste and water to the pan. Mix well.\n5. Add the fish back to the pan and cook for 5-7 minutes.\n6. Serve hot with steamed rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1/2 kg beef mince",
+            "1 onion, chopped",
+            "2 tablespoons coriander powder",
+            "1 tablespoon cumin powder",
+            "1 tablespoon red chili powder"
+          ],
+          "cookingMethod": "1. In a bowl, mix all the ingredients together.\n2. Make small patties with the mixture.\n3. Heat oil in a frying pan and fry the patties until golden brown.\n4. Serve hot with chutney or raita.",
+          "rating": 4.2
+        },
+        {
+            "name": "Shahi Tukra",
+            "ingredients": [
+              "6 slices of bread",
+              "1/2 cup milk",
+              "1/4 cup sugar",
+              "1/4 cup condensed milk",
+              "2 tablespoons ghee"
+            ],
+            "cookingMethod": "1. Heat ghee in a frying pan and fry bread slices until golden brown.\n2. Heat milk and sugar in a separate pan until the sugar dissolves.\n3. Add condensed milk and mix well.\n4. Dip the fried bread slices in the milk mixture.\n5. Serve hot or chilled.",
+            "rating": 4.3
+          }
+      ]
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/vk5XKPb/chef6.jpg",
+      "nameChef": "Chef Shahi",
+      "experience": 3,
+      "recipes": 50,
+      "likes": 2000,
+      "ViewRecipes": [
+        {
+          "name": "Biriyani",
+          "ingredients": [
+            "1 kg chicken",
+            "2 cups basmati rice",
+            "1/2 cup ghee",
+            "1/2 cup fried onions",
+            "1 tablespoon ginger paste"
+          ],
+          "cookingMethod": "1. Wash the rice and soak it for 30 minutes.\n2. Heat ghee in a large pot and fry onions until brown.\n3. Add ginger paste and chicken. Cook until chicken is browned.\n4. Add salt, red chili powder, and biryani masala. Mix well.\n5. Add 4 cups of water and bring to a boil.\n6. Add soaked rice and cook until the water has evaporated and the rice is tender.\n7. Serve hot.",
+          "rating": 4.8
+        },
+        {
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "4 pieces of Hilsa fish",
+            "2 tablespoons mustard paste",
+            "1 teaspoon turmeric powder",
+            "1 tablespoon mustard oil",
+            "Salt to taste"
+          ],
+          "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown.\n3. Remove the fish from the pan.\n4. Add mustard paste and water to the pan. Mix well.\n5. Add the fish back to the pan and cook for 5-7 minutes.\n6. Serve hot with steamed rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1/2 kg beef mince",
+            "1 onion, chopped",
+            "2 tablespoons coriander powder",
+            "1 tablespoon cumin powder",
+            "1 tablespoon red chili powder"
+          ],
+          "cookingMethod": "1. In a bowl, mix all the ingredients together.\n2. Make small patties with the mixture.\n3. Heat oil in a frying pan and fry the patties until golden brown.\n4. Serve hot with chutney or raita.",
+          "rating": 4.2
+        },
+        {
+            "name": "Shahi Tukra",
+            "ingredients": [
+              "6 slices of bread",
+              "1/2 cup milk",
+              "1/4 cup sugar",
+              "1/4 cup condensed milk",
+              "2 tablespoons ghee"
+            ],
+            "cookingMethod": "1. Heat ghee in a frying pan and fry bread slices until golden brown.\n2. Heat milk and sugar in a separate pan until the sugar dissolves.\n3. Add condensed milk and mix well.\n4. Dip the fried bread slices in the milk mixture.\n5. Serve hot or chilled.",
+            "rating": 4.3
+          }
+      ]
+    }
+  ]
